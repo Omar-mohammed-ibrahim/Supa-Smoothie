@@ -1,4 +1,4 @@
-# Starter React Project for the Supabase Course
+# Starter React Project
 
 **How to run the starter project:**
 
